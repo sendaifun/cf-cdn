@@ -1,4 +1,4 @@
-name = "secure-image-cdn"
+name = "cdn"
 main = "worker.ts"
 compatibility_date = "2023-12-01"
 
